@@ -1,0 +1,385 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: #796868;
+    }
+    .navbar-toggler {
+        background: #fff;
+    }
+    .banner-text {
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+    .banner-text p {
+        padding: 58px 33px 52px 41px;
+    }
+    .slick-dots {
+        margin-left: 193px;
+    }
+    .about-text {
+        margin: 0px 0px;
+    }
+    .about-text h3 {
+        text-align: center;
+    }
+    .about-text p {
+        margin: 28px 62px 28px 81px;
+        text-align: center;
+    }
+    .about-text a {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .video-icon {
+        padding: 80px 0px 80px 0px;
+    }
+    #service-part {
+        padding: 70px 0px 55px 0px;
+    }
+    .service {
+        padding: 25px 0px 25px 0px;
+    }
+    .service p {
+        padding: 0px 85px;
+        margin: 0px;
+    }
+    .project-text {
+        padding-bottom: 40px;
+    }
+    .btn-bottom {
+        padding: 13px 30px;
+        width: 100%;
+        display: inline-block;
+        margin-top: -15px;
+    }
+    .team-right-arrows2 {
+        right: 45px;
+    }
+    .team-left-arrows1 {
+        left: 38px;
+    }
+    .form-btn {
+        margin-top: -10px;
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .contact-form-right {
+        text-align: center;
+    }
+    .contact-image{
+        text-align: center;
+    }
+    .text-footer-left p {
+        padding: 0 0px 0 0;
+    }
+    .text-footer-middle p {
+        padding: 0 0px 0 0;
+    }
+    .text-footer-right ul {
+        margin-left: 0px;
+    }
+    .btn-custom {
+        font-size: 26px;
+        margin-left: 20px;
+    }
+    .footer-bottom-text-rh {
+        padding-top: 5px;
+    }
+    .footer-bottom-text-rh {
+        margin-right: 139px;
+    }
+    #fotter-part {
+        padding: 45px 0px;
+    }
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: #796868;
+    }
+    .navbar-toggler {
+        background: #fff;
+    }
+    .banner-text {
+        padding-top: 120px;
+        padding-bottom: 80px;
+    }
+    .banner-text p {
+        padding: 50px 24px 40px 27px;
+
+    }
+    .slick-dots {
+        margin-right: 205px;
+    }
+    .about-text {
+        margin-top: 0px;
+        margin-bottom: 50px;
+    }
+    .about-part-img {
+        margin: 55px 0px;
+    }
+    .about-text h3 {
+        text-align: center;
+    }
+    .about-text p {
+        margin: 28px 44px 28px 56px;
+        text-align: center;
+    }
+    .about-text a {
+        width: 100%;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .video-icon {
+        padding: 100px 0px;
+    }
+    .service {
+        padding: 35px 0px 0px 0px;
+    }
+    #project-part {
+        padding: 55px 0px;
+    }
+    .btn-bottom {
+        width: 100%;
+        display: inline-block;
+        margin: 0px;
+    }
+    .team-right-arrows2 {
+        right: 55px;
+    }
+    .team-left-arrows1 {
+        left: 6%;
+    }
+    #contact-part {
+        padding: 50px 0px;
+    }
+    .form-btn {
+        margin-top: 5px;
+        margin-bottom: 40px;
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+    .contact-form-right {
+        text-align: center;
+    }
+    .contact-image {
+        text-align: center;
+    }
+    .form-inline {
+        margin-left: -15px;
+    }
+    .text-footer-right ul {
+        margin-left: -5px;
+    }
+    .footer-bottom-text-rh p {
+        text-align: left;
+        margin-top: -25px;
+    }
+    .footer-bottom-text-rh {
+        padding-top: 30px;
+    }
+    .card2 {
+        background: none;
+        border: 1px solid #fff;
+        width: 164px;
+    }
+    .text-footer-left p {
+        padding: 0 15px 0 0;
+    }
+    .text-footer-middle p {
+        padding: 0 0 0 0;
+    }
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: #796868;
+    }
+    .navbar-toggler {
+        background: #fff;
+    }
+    .banner-text {
+        padding-top: 120px;
+        padding-bottom: 60px;
+    }
+    .about-text {
+        margin: -15px 0px;
+    }
+    .about-text h3 {
+        text-align: center;
+    }
+    .about-text p {
+        margin: 28px 75px 28px 26px;
+        text-align: center;
+    }
+    .about-text a {
+        margin-bottom: 60px;
+        width: 100%;
+    }
+    .video-icon {
+        padding: 100px 0px 100px 0px;
+    }
+    .service {
+        padding: 25px 0px 25px 0px;
+    }
+    .service p {
+        margin: 0px;
+    }
+    .card2 {
+        background: none;
+        border: 1px solid #fff;
+        width: 165px;
+    }
+    .team-slider {
+        padding: 35px 0px;
+    }
+    .project-text {
+        padding-bottom: 50px;
+    }
+    .btn-bottom {
+        padding: 13px 30px;
+        width: 100%;
+        display: inline-block;
+    }
+    .btn-btm {
+        padding-top: 55px;
+    }
+    .team-right-arrows2 {
+        right: 20%;
+    }
+    .team-left-arrows1 {
+        left: 18%;
+    }
+    #contact-part {
+        padding: 70px 0px;
+        text-align: center;
+    }
+    .form-btn {
+        text-align: center;
+        width: 100%;
+        display: inline-block;
+        margin-bottom: 45px;
+    }
+    .contact-form-right {
+        text-align: center;
+    }
+    .text-footer-left img {
+        padding-bottom: 22px;
+    }
+    .text-footer-left p {
+        padding: 0 0px 0 0;
+    }
+    .text-footer-middle p {
+        padding: 0 0px 0 0;
+    }
+    .form-inline .form-control {
+        width: 211px;
+    }
+    .footer-bottom-text {
+        padding-top: 25px;
+    }
+    .footer-bottom-text ul {
+        padding: 0px;
+        margin-left: 5px;
+        margin-bottom: 0px;
+    }
+    .footer-bottom-text-rh p {
+        margin: 0px;
+    }
+    .footer-bottom-text-rh {
+        padding-top: 25px;
+    }
+
+
+
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .banner-text {
+        position: relative;
+        z-index: 100;
+        padding-top: 175px;
+        padding-bottom: 130px;
+    }
+    .slick-dots {
+        margin-right: 411px;
+    }
+    .about-text {
+        margin: 55px 0px;
+    }
+    .video-icon {
+        padding: 150px 0px 150px 0px;
+    }
+    .video-icon h3 {
+        font-size: 14px;
+    }
+    .service {
+        padding: 35px 0px 0px 0px;
+    }
+    .service h5 {
+        padding-bottom: 10px;
+        margin: 0%;
+    }
+    .service p {
+        margin: 0px;
+    }
+    .card2 {
+        background: none;
+        border: 1px solid #fff;
+        width: 215px;
+    }
+    .team-fotter-text p {
+        padding: 60px 0px 25px 0px;
+    }
+    .project-text {
+        padding-bottom: 50px;
+    }
+    .team-right-arrows2 {
+        right: 240px;
+        top: 76%;
+    }
+    .team-left-arrows1 {
+        top: 403px;
+        left: 236px;
+    }
+    #contact-part {
+        padding: 55px 0px;
+    }
+    .text-footer-left p {
+        padding: 0 0 0 0;
+    }
+    .footer-bottom-text {
+        padding-top: 20px;
+    }
+    .footer-bottom-text-rh {
+        position: relative;
+        padding-top: 20px;
+    }
+    #fotter-part {
+        padding: 60px 0px;
+    }
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }
